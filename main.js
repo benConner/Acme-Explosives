@@ -71,7 +71,7 @@ function pagePopulate(e){
         if(types[i].category === targVal){
             $("#explosives").append(`<div class="col-sm-4">
                                     <h2>
-                                        Type name:${types[i].name}
+                                        Type name: ${types[i].name}
                                     </h2>
                                     <div>
                                         Basic Description: ${types[i].description}

@@ -82,9 +82,9 @@ function pagePopulate(e){
             for (var q = 0 in products[0]) {
                 if (types[i].id === products[0][q].type){
                     console.log(types[i].name)
-                    $("."+types[i].name).append(`<div>
+                    $("."+types[i].name).append(`<h3>
                                                     Name: ${products[0][q].name}
-                                                </div>
+                                                </h3>
                                                 <div>
                                                     Description: ${products[0][q].description}
                                                 </div>

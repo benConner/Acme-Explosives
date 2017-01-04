@@ -3,31 +3,31 @@
         {
             "id": 0,
             "category": 0,
-            "name": "snake",
+            "name": "Snake",
             "description": "When lit creates an ash snake"
         },
         {
             "id": 1,
             "category": 0,
-            "name": "sparkler",
+            "name": "Sparkler",
             "description": "Omits a spark up for a short period of time"
         },
         {
             "id": 2,
             "category": 0,
-            "name": "mortar",
+            "name": "Mortar",
             "description": "Fireworks intended for recreational use during holiday celebrations"
         },
         {
             "id": 3,
             "category": 1,
             "name": "Dynamite",
-            "description": "Will blow some stuff up but unstable"
+            "description": "Will blow some stuff up, but unstable"
         },
         {
             "id": 4,
             "category": 1,
-            "name": "c-4",
+            "name": "C-4",
             "description": "Highly explosive, but very stable"
         },
         {

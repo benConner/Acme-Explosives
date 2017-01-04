@@ -5,126 +5,126 @@
             "type": 0,
             "name": "Red Snake",
             "description": "red-colored snake that are safe for any age.",
-            "Stock": "In"
+            "stock": "In"
         },
         "blue_snake": {
             "id": 1,
             "type": 0,
             "name": "Blue Snake",
             "description": "blue-colored snake that are safe for any age.",
-            "Stock": "In"
+            "stock": "In"
         },
         "fairy_snake": {
             "id": 2,
             "type": 0,
             "name": "Fairy Snake",
             "description": "Multi-colored snake that are safe for any age.",
-            "Stock": "In"
+            "stock": "In"
         },
         "red_sparklers": {
             "id": 3,
             "type": 1,
             "name": "Red Sparklers",
             "description": "Red colored sparklers that are safe for any age.",
-            "Stock": "In"
+            "stock": "In"
         },
         "blue_sparklers": {
             "id": 4,
             "type": 1,
             "name": "Blue Sparklers",
             "description": "Blue colored sparklers that are safe for any age.",
-            "Stock": "In"
+            "stock": "In"
         },
         "fairy_sparklers": {
             "id": 5,
             "type": 1,
             "name": "Fairy Sparklers",
             "description": "Multi-colored sparklers that are safe for any age.",
-            "Stock": "In"
+            "stock": "In"
         },
-        " small_mortar": {
+        "small_mortar": {
             "id": 6,
             "type": 2,
             "name": "Small Mortar",
             "description": "For backyard shows.",
-            "Stock": "In"
+            "stock": "In"
         },
         "medium_mortar": {
             "id": 7,
             "type": 2,
             "name": "Medium Mortar",
             "description": "For shows to impress some people.",
-            "Stock": "In"
+            "stock": "In"
         },
         "large_mortar": {
             "id": 8,
             "type": 2,
             "name": "Large Mortar",
             "description": "For city firework shows.",
-            "Stock": "In"
+            "stock": "In"
         },
         "fake_tnt": {
             "id": 9,
             "type": 3,
             "name": "Fake TNT",
             "description": "Does nothing, but it looks cool!.",
-            "Stock": "In"
+            "stock": "In"
         },
         "cartoon_tnt": {
             "id": 10,
             "type": 3,
             "name": "Cartoon TNT",
             "description": "It will just blow up in your face.",
-            "Stock": "In"
+            "stock": "In"
         },
         "old_time_tnt": {
             "id": 11,
             "type": 3,
             "name": "Old time TNT",
             "description": "Blow a hole in most things.",
-            "Stock": "In"
+            "stock": "In"
         },
         "fake_c-4": {
             "id": 12,
             "type": 4,
             "name": "Fake C-4",
             "description": "Does nothing, but it looks cool!",
-            "Stock": "In"
+            "stock": "In"
         },
         "home_made_c-4": {
             "id": 13,
             "type": 4,
             "name": "Home made C-4",
             "description": "Not the best, but it will do on a small budget.",
-            "Stock": "In"
+            "stock": "In"
         },
         "military_grade-c-4": {
             "id": 14,
             "type": 4,
             "name": "Military Grade C-4",
             "description": "It will knock the socks off of anything.",
-            "Stock": "In"
+            "stock": "In"
         },
         "small_nuke": {
             "id": 15,
             "type": 5,
             "name": "Small Nuke",
             "description": "Take out a city!",
-            "Stock": "Out"
+            "stock": "Out"
         },
         "medium_nuke": {
             "id": 16,
             "type": 5,
             "name": "Medium Nuke",
             "description": "Take out a small country!",
-            "Stock": "Out"
+            "stock": "Out"
         },
         "large_nuke": {
             "id": 17,
             "type": 5,
             "name": "Large Nuke",
             "description": "Take out the world!",
-            "Stock": "Out"
+            "stock": "Out"
         }
 
     }]
